@@ -1,0 +1,33 @@
+html {
+
+	background-color: #86B404
+
+}
+
+body {
+
+	
+	width: 1100px;
+	height: 800px;
+  	margin: 0 auto;
+  	background-color: #E0E0F8;
+ 	 padding: 0 20px 20px 20px;
+  	border: 1px solid black;
+  	
+}
+	
+h1 {
+
+	text-align: center;
+	font-size: 40px;
+	color:  #86B404;
+	 text-shadow: 3px 3px 1px black;
+	margin: 0;
+}
+
+img {
+
+  display: block;
+  margin: 0 auto;
+}
+
